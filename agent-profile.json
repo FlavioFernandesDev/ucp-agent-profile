@@ -1,0 +1,19 @@
+{
+ "ucp": {
+  "version": "2026-08-25",
+  "services": {},
+  "payment_handlers": {},
+  "capabilities": {}
+ },
+ "keys": [
+  {
+   "kid": "kubeba-audit-2026-11",
+   "kty": "EC",
+   "crv": "P-256",
+   "x": "WULPZxEfOdjxsdhgcNGuOZgIRWjQNa0HK3km7MLrWoQ",
+   "y": "zhISvauk6qHhtjbA2XquRS3Zm_AMcajRBItTySJziJI",
+   "use": "sig",
+   "alg": "ES256"
+  }
+ ]
+}
